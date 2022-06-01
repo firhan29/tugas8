@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 # tugas8a
 # tugas_
 # tugas-8-A
+# tugas-8-A
+# tugas8
